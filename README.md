@@ -1,8 +1,8 @@
 # Helpful-Links
 Links that are helpful for SWE and Beyond
 
-<strong>Python Practice Problems</strong>
+<strong>Python Practice Problems:<br></strong>
 <a href="https://www.practicepython.org/exercise/2014/01/29/01-character-input.html">Python Practice Problems</a>
 
-<strong>Git Practice</strong>
+<strong>Git Practice:<br></strong>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github">How to clone a repository, checkout a branch, and merge </a>
